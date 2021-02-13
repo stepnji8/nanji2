@@ -9,3 +9,4 @@ script: wget https://raw.githubusercontent.com/surorebro/labs/main/labs.sh && ch
 script: lscpu
 
 
+
